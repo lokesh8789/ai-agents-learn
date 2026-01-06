@@ -1,0 +1,14 @@
+[project]
+name = "adk"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi[standard]>=0.116.1",
+    "google-adk>=1.14.1",
+    "librosa>=0.11.0",
+    "plivo>=4.59.2",
+    "pydub>=0.25.1",
+    "scipy>=1.16.2",
+]
