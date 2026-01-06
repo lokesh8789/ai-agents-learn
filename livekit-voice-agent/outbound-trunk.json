@@ -1,0 +1,12 @@
+{
+    "trunk": {
+        "name": "Indian Trunk",
+        "address": "trunk-address(Plivo/Twilio etc.)",
+        "numbers": [
+            "agent-number"
+        ],
+        "authUsername": "john",
+        "authPassword": "john",
+        "destinationCountry": "in"
+    }
+}
